@@ -56,5 +56,8 @@ class LocalInnerClass {
 
 
 class empty{
-	
+
+	void method1(){
+		
+	}
 }
