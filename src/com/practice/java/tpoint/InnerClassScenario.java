@@ -53,3 +53,8 @@ class LocalInnerClass {
 		l.localMethod1();
 	}
 }
+
+
+class empty{
+	
+}
