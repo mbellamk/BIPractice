@@ -1,0 +1,2 @@
+This is write File using Buffered Write
+This is write File using Buffered Write line2

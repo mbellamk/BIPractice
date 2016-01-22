@@ -1,0 +1,35 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+.header {
+	overflow:hidden;
+	height: 20%;
+	background-color: #808F00;
+}
+
+.footer {
+	overflow:hidden;
+	height: 20%;
+	background-color: #808F00;
+}
+
+.content {
+	
+	font-size:13pt;
+	padding: 0 0 1em 0;
+	height: 58%;
+	overflow: scroll;
+	background-color: #858F80;
+}
+
+h1 {
+	text-align: center;
+	color: blue;
+}
+
+::-webkit-scrollbar {
+	display: none;
+}
